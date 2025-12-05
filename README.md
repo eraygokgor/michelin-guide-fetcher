@@ -1,5 +1,7 @@
 # 🍴 Michelin Guide Restaurant Fetcher
 
+![Michelin Guide](https://guide.michelin.com/assets/images/michelin-guide-logo-dark-3a2375154bf280f461bfdf04fdc8519f.svg)
+
 Michelin Guide'dan restoran verilerini çeken Python scriptidir.
 
 ## 📋 Özellikler
